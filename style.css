@@ -3,6 +3,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Georgia', sans-serif;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
 }
 
 .resume-contents {
@@ -17,12 +19,14 @@
     grid-column: span 2;
     height: 100%;
     background-color: #000000;
+    background-color: #0D2337;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
     background-color: #D3D3D3;
+    background-color: #D9D9D9;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -38,11 +42,13 @@
 .profile .profile-image {
     width: 100%;
     border-radius: 100%;
+    border-radius: 90%;
 }
 
 .name {
     color: #D6DBDF;
     font-size: 30px;
+    font-size: 28px;
     letter-spacing: 2px;
     text-transform: uppercase;
     text-align: center;
@@ -82,6 +88,10 @@
     padding-top: 1.5rem;
 }
 .skills dd p {   
+.skills ul {
+    padding-top: 1.5rem;
+}
+.skills ul li p {
     padding: .4rem 0;
     color: #eeeeee;
 }
@@ -137,4 +147,5 @@
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
+    color: #000000;
 }
