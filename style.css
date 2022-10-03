@@ -130,7 +130,7 @@
 .awards-company-name {
   font-size: 18px;
   font-weight: bold;
-  }
+}
 
 .exp-time-period,
 .awards-time-period {
@@ -145,39 +145,34 @@
 
 .exp-desc,
 .awards-desc {
-  font-size: 16px;
+  font-size: 18px;
   padding-left: 5px;
   color: #000000;
 }
 
-.education-contents,
-.awards-contents {
+.education-contents {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   padding-bottom: 2rem;
   color: #000000;
 }
 
-.education-school-name,
-.awards-company-name {
+.education-school-name {
   font-size: 18px;
   font-weight: bold;
 }
 
-.educationp-time-period,
-.awards-time-period {
+.educationp-time-period {
   font-size: 18px;
 }
 
-.education-subject,
-.awards-name {
+.education-subject {
   font-size: 18px;
   font-weight: bold;
 }
 
-.education-desc,
-.awards-desc {
-  font-size: 16px;
+.education-desc {
+  font-size: 18px;
   padding-left: 5px;
   color: #000000;
 }
