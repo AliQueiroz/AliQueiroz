@@ -1,7 +1,7 @@
 ### Olá, eu sou Aline 👋
 
-##### Sou formada em ADS e atualmente estou estudando para ingressar na área de Front-End.
-##### Considero meus conhecimentos em HTML, CSS e JavaScript npivel básico, por isso busco cada vez mais aprimorar meu conhecimento.
+#### Sou formada em ADS e atualmente estou estudando para ingressar na área de Front-End.
+#### Considero meus conhecimentos em HTML, CSS e JavaScript npivel básico, por isso busco cada vez mais aprimorar meu conhecimento.
 
 <!--
 **AliQueiroz/AliQueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
